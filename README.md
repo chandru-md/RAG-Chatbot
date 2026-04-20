@@ -1,4 +1,4 @@
-# 📚 RAG Chatbot – README
+# 📚 RAG Chatbot
 
 ## 🚀 Overview
 
